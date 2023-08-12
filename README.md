@@ -23,7 +23,7 @@
 在命令行中键入以下命令后，会自动复制 Qt 动态链接库：
 
 ```shell
-windeployqt modbusslave.exe
+windeployqt demo.exe
 ```
 
 ⑤ 删除无关文件以减少文件体积（可选）
